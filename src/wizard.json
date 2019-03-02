@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "draco.jpg"
+    },
+    {
+      "id": 2,
+      "image": "dumbledore.jpeg"    
+    },
+    {
+      "id": 3,
+      "image": "fred.jpg"
+    },
+    {
+      "id": 4,
+      "image": "george.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "ginny.jpg"
+    },
+    {
+      "id": 6,
+      "image": "hagrid.jpg"
+    },
+    {
+      "id": 7,
+      "image": "harry.jpg"
+    },
+    {
+      "id": 8,
+      "image": "hermione.jpg"
+    },
+    {
+      "id": 9,
+      "image": "luna.jpg"
+    },
+    {
+      "id": 10,
+      "image": "mcgonagall.jpg"
+    },
+    {
+      "id": 11,
+      "image": "ron.JPG"
+    },
+    {
+      "id": 12,
+      "image": "snape.jpg"
+    }
+  ]
