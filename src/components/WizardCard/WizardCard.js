@@ -1,5 +1,6 @@
 // sets up reusable component for WizardCard
 import React from "react";
+import "./WizardCard.css";
 
 // pass the image into each card
 const WizardCard = props => (

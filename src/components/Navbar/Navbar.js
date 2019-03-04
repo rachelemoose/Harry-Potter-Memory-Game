@@ -1,5 +1,6 @@
 // Setup reusable react component for Navbar
 import React, { Component } from 'react';
+import "./Navbar.css";
 
 class Navbar extends Component {
     render() {
