@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Harry-Potter-Memory-Game/precache-manifest.16ed0ef988d908d97e001eb14a7f6724.js"
+  "/Harry-Potter-Memory-Game/precache-manifest.128322b0d8281641e7d911f8e9ad3bf3.js"
 );
 
 workbox.clientsClaim();
