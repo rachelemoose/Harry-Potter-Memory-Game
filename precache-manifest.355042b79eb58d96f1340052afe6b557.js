@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "25fb61d0e10645b2ffaa",
-    "url": "/Harry-Potter-Memory-Game/static/css/main.0825c67d.chunk.css"
+    "revision": "4650c3b215ec0cfa1af1",
+    "url": "/Harry-Potter-Memory-Game/static/css/main.7239a5ca.chunk.css"
   },
   {
-    "revision": "25fb61d0e10645b2ffaa",
-    "url": "/Harry-Potter-Memory-Game/static/js/main.25fb61d0.chunk.js"
+    "revision": "4650c3b215ec0cfa1af1",
+    "url": "/Harry-Potter-Memory-Game/static/js/main.4650c3b2.chunk.js"
   },
   {
     "revision": "f961a142c74d3ad95944",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/Harry-Potter-Memory-Game/static/media/snape.a086a603.jpg"
   },
   {
-    "revision": "bb427863bcc79dcc174dae3e4c421446",
+    "revision": "2fa146ee18f33ae9b3e7772cbc1db8a3",
     "url": "/Harry-Potter-Memory-Game/index.html"
   }
 ];
