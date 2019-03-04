@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
 import Navbar from "./components/Navbar";
-import Jumbotron from "./components/Jumbotron";
-import WizardCard from "./components/WizardCard";
+import Jumbotron from "./components/Jumbotron/Jumbotron";
+import WizardCard from "./components/WizardCard/WizardCard";
 import wizard from "./wizard.json";
 
 //sets state to 0 or empty

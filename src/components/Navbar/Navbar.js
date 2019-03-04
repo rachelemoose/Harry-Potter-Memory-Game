@@ -1,3 +1,4 @@
+// Setup reusable react component for Navbar
 import React, { Component } from 'react';
 
 class Navbar extends Component {
