@@ -16,13 +16,13 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App">
+      <div>
       <Navbar 
         score={this.state.score} 
       />
         <Jumbotron />
         <div className="wrapper">
-          {this.state.fish.map(fish => (
+          {this.state.wizard.map(wizard => (
             <WizardCard
               imageClick={this.imageClick}
               id={wizard.id}
